@@ -69,8 +69,8 @@ The GoRouter package in Flutter is a routing library that simplifies the navigat
 
   <br/>
   <p align="left">
-    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranavMasekar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMasekar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Github Stats" src="https://github-readme-stats-git-master-pranavmasekar.vercel.app/api?username=PranavMasekar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Top Languages" src="https://github-readme-stats-git-master-pranavmasekar.vercel.app/api/top-langs/?username=PranavMasekar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   </p>
   <br/>
