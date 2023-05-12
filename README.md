@@ -24,6 +24,10 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//minikube" title="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683795313716/defdb4f4-6b7b-4bf2-b6de-d4cf5d4d27c2.png" alt="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//minikube" title="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube"><strong>Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube</strong></a>
+<br/> Containerization has revolutionized the way developers build, package, and deploy applications. Docker has emerged as one of the most popular containerization platforms, allowing developers to easily create, distribute, and run applications in isolat... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//gorouter" title="Simplifying Navigation in Flutter with the GoRouter Package"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680544851127/339e3e1c-e4f2-4939-8046-4b43947f179a.jpeg" alt="Simplifying Navigation in Flutter with the GoRouter Package" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//gorouter" title="Simplifying Navigation in Flutter with the GoRouter Package"><strong>Simplifying Navigation in Flutter with the GoRouter Package</strong></a>
 <br/> Introduction:
@@ -32,10 +36,6 @@ The GoRouter package in Flutter is a routing library that simplifies the navigat
 <a href="https://sungod.hashnode.dev//jenkins-webhook" title="Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679842725091/f2eaf3a6-8ca7-4063-a133-a7170cc85188.png" alt="Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//jenkins-webhook" title="Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks"><strong>Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks</strong></a>
 <br/> As software development teams grow, so does the need for reliable and efficient continuous integration and deployment (CI/CD) workflows. Jenkins is a popular tool for automating the building, testing, and deployment of software projects. GitHub, on t... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//terraform" title="Infrastructure as Code with Terraform"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677604277073/d53cf34e-f4b5-4a29-b0cc-276e4519d41c.jpeg" alt="Infrastructure as Code with Terraform" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//terraform" title="Infrastructure as Code with Terraform"><strong>Infrastructure as Code with Terraform</strong></a>
-<br/> Provisioning infrastructure can be a time-consuming and complex process for IT teams. Traditional methods of manually setting up servers and configuring applications can lead to errors, inconsistencies, and a lack of scalability. However, with the ri... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
