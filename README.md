@@ -24,6 +24,10 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-1" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684479545888/cd511b3c-6f34-46dc-90b6-5fda1edda42f.png" alt="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-1" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1"><strong>Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1</strong></a>
+<br/> Building a complex app in Flutter can be challenging, especially when it comes to managing the app's architecture. That's where Clean Architecture comes in. Clean Architecture is a software architecture pattern that separates the app's concerns into ... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//minikube" title="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683795313716/defdb4f4-6b7b-4bf2-b6de-d4cf5d4d27c2.png" alt="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//minikube" title="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube"><strong>Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube</strong></a>
 <br/> Containerization has revolutionized the way developers build, package, and deploy applications. Docker has emerged as one of the most popular containerization platforms, allowing developers to easily create, distribute, and run applications in isolat... </p> <br/> <br/>
@@ -32,10 +36,6 @@
 <a href="https://sungod.hashnode.dev//gorouter" title="Simplifying Navigation in Flutter with the GoRouter Package"><strong>Simplifying Navigation in Flutter with the GoRouter Package</strong></a>
 <br/> Introduction:
 The GoRouter package in Flutter is a routing library that simplifies the navigation process in your Flutter application. It provides an intuitive API for defining routes and navigating between them, making it easier for developers to ma... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//jenkins-webhook" title="Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679842725091/f2eaf3a6-8ca7-4063-a133-a7170cc85188.png" alt="Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//jenkins-webhook" title="Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks"><strong>Automating Your CI/CD Workflow with Jenkins and GitHub Webhooks</strong></a>
-<br/> As software development teams grow, so does the need for reliable and efficient continuous integration and deployment (CI/CD) workflows. Jenkins is a popular tool for automating the building, testing, and deployment of software projects. GitHub, on t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
