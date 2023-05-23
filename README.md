@@ -45,15 +45,19 @@ The GoRouter package in Flutter is a routing library that simplifies the navigat
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
     </a>  
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height="50" /> </a> 
     <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" height="50" width = "60"/>
     <a href="https://hub.docker.com/u/pranav18vk" target="_blank"> <img src="https://camo.githubusercontent.com/d5942ae771b21e3ea0576598c5c2b2070c0c4f6028e2605691a5c07b94923800/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646f636b65722e706e67" height="50" width = "60"/>
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://camo.githubusercontent.com/6d20d4c78e20fa7c89ac8da5ac3073ddc12e05513e13d0dad8af6072187812c9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6b756265726e657465732e706e67" height="50" width = "50"/>
+    <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" height="50" width = "50"/>
+    <a href="https://prometheus.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" height="50" width = "50"/>
+    <a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="50" width = "50"/>
+    <a href="https://k8slens.dev/" target="_blank"> <img src="https://k8slens.dev/images/lens-logo-icon.svg" height="50" width = "50"/>
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://seeklogo.com/images/J/jenkins-logo-07C99BD83D-seeklogo.com.png" height="50" width = "50"/>
     <a href="https://circleci.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/296864/90276707-f691d800-de29-11ea-8d36-a4a756e3b524.png" height="50" width = "50"/>
     <a href="https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54465427?v=4" height="50" width = "50"/>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://i.pinimg.com/originals/c7/ad/46/c7ad4682fa6042d1c13f8703ec727ccc.png" height="50" width = "50"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height="50" /> </a> 
    
 </p>
 
@@ -73,16 +77,12 @@ The GoRouter package in Flutter is a routing library that simplifies the navigat
     <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Top Languages" src="https://github-readme-stats-git-master-pranavmasekar.vercel.app/api/top-langs/?username=PranavMasekar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   </p>
-  <br/>
-
-[![Pranav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PranavMasekar&theme=react-dark)](https://github.com/PranavMasekar/github-readme-activity-graph)
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/pranav-masekar-556534214/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/pranav_18_vk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/Pranav18vk"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" height="50" width = "50"/></a>
+<a href = "https://sungod.hashnode.dev/"><img src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png" height="50" width = "50"/></a>
 
 </p>
