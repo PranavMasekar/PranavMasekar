@@ -24,6 +24,10 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-2" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684564734444/fb3c87ba-27f3-435e-b2fd-cfef4cd275d6.png" alt="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-2" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2"><strong>Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2</strong></a>
+<br/> In our previous part of Clean Architecture with Flutter, we learned about Clean Architecture concepts and layers. We also had preparation for our music app in Flutter. We installed the required packages and prepared our folder structure. If you haven... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-1" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684479545888/cd511b3c-6f34-46dc-90b6-5fda1edda42f.png" alt="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-1" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1"><strong>Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1</strong></a>
 <br/> Building a complex app in Flutter can be challenging, especially when it comes to managing the app's architecture. That's where Clean Architecture comes in. Clean Architecture is a software architecture pattern that separates the app's concerns into ... </p> <br/> <br/>
@@ -31,11 +35,6 @@
 <a href="https://sungod.hashnode.dev//minikube" title="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683795313716/defdb4f4-6b7b-4bf2-b6de-d4cf5d4d27c2.png" alt="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//minikube" title="Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube"><strong>Container Orchestration Made Easy: Deploying Dockerized Applications on Minikube</strong></a>
 <br/> Containerization has revolutionized the way developers build, package, and deploy applications. Docker has emerged as one of the most popular containerization platforms, allowing developers to easily create, distribute, and run applications in isolat... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//gorouter" title="Simplifying Navigation in Flutter with the GoRouter Package"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680544851127/339e3e1c-e4f2-4939-8046-4b43947f179a.jpeg" alt="Simplifying Navigation in Flutter with the GoRouter Package" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//gorouter" title="Simplifying Navigation in Flutter with the GoRouter Package"><strong>Simplifying Navigation in Flutter with the GoRouter Package</strong></a>
-<br/> Introduction:
-The GoRouter package in Flutter is a routing library that simplifies the navigation process in your Flutter application. It provides an intuitive API for defining routes and navigating between them, making it easier for developers to ma... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
