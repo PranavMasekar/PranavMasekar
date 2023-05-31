@@ -15,7 +15,7 @@
 
 - 🌱 **Learning DevOps.**
 
-- 👯 Here is my **[Resume](https://drive.google.com/file/d/1FJH75DWX0XN9Lep8R2EEim94-dqZvo_y/view?usp=share_link).**
+- 👯 Here is my **[Resume](https://drive.google.com/file/d/1KluEVWQfiwMZwlez7qWwJj89tGG1N8ur/view?usp=sharing).**
 
 - 👨‍💻 Here are my blog's **[My Blog's](https://sungod.hashnode.dev/).**
 
@@ -56,9 +56,7 @@ The GoRouter package in Flutter is a routing library that simplifies the navigat
     <a href="https://circleci.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/296864/90276707-f691d800-de29-11ea-8d36-a4a756e3b524.png" height="50" width = "50"/>
     <a href="https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54465427?v=4" height="50" width = "50"/>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://i.pinimg.com/originals/c7/ad/46/c7ad4682fa6042d1c13f8703ec727ccc.png" height="50" width = "50"/>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height="50" /> </a> 
-   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
 <br/>
@@ -68,15 +66,6 @@ The GoRouter package in Flutter is a routing library that simplifies the navigat
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranav Masekar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMasekar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-  <p align="left">
-    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Github Stats" src="https://github-readme-stats-git-master-pranavmasekar.vercel.app/api?username=PranavMasekar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/PranavMasekar/github-readme-stats"><img alt="Pranav Masekar's Top Languages" src="https://github-readme-stats-git-master-pranavmasekar.vercel.app/api/top-langs/?username=PranavMasekar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-  </p>
 
 ## Connect with me:
 <p align="left">
