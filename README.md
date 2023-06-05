@@ -24,6 +24,10 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//helm-charts" title="Sail through Kubernetes Deployments with Helm Charts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685686366852/07e125e7-6d9b-4299-9601-d97bed169856.png" alt="Sail through Kubernetes Deployments with Helm Charts" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//helm-charts" title="Sail through Kubernetes Deployments with Helm Charts"><strong>Sail through Kubernetes Deployments with Helm Charts</strong></a>
+<br/> Welcome to our tech blog, where we dive into the world of Helm charts and how they revolutionize Kubernetes deployments. As the complexity of containerized applications grows, managing their deployment and scaling becomes increasingly challenging. Th... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//argocd" title="Simplifying CI/CD Pipelines with Argo CD and Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685198897464/9d2578da-a5b6-4ac2-a574-761a4fcc8e59.png" alt="Simplifying CI/CD Pipelines with Argo CD and Kubernetes" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//argocd" title="Simplifying CI/CD Pipelines with Argo CD and Kubernetes"><strong>Simplifying CI/CD Pipelines with Argo CD and Kubernetes</strong></a>
 <br/> Introduction :
@@ -32,10 +36,6 @@ Argo CD has emerged as a game-changing tool for streamlining CI/CD workflows in 
 <a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-2" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684564734444/fb3c87ba-27f3-435e-b2fd-cfef4cd275d6.png" alt="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-2" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2"><strong>Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-2</strong></a>
 <br/> In our previous part of Clean Architecture with Flutter, we learned about Clean Architecture concepts and layers. We also had preparation for our music app in Flutter. We installed the required packages and prepared our folder structure. If you haven... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-1" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684479545888/cd511b3c-6f34-46dc-90b6-5fda1edda42f.png" alt="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//flutter-clean-architecture-part-1" title="Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1"><strong>Unlocking the Secrets of Clean Architecture: Building Scalable Flutter Apps : Part-1</strong></a>
-<br/> Building a complex app in Flutter can be challenging, especially when it comes to managing the app's architecture. That's where Clean Architecture comes in. Clean Architecture is a software architecture pattern that separates the app's concerns into ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
