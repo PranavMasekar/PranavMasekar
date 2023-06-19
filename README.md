@@ -24,6 +24,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//multi-stage-builds-in-docker" title="Exploring the Power of Multi-Stage Builds in Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686981805403/27943c73-2909-4058-ad5a-e6adb421c86a.png" alt="Exploring the Power of Multi-Stage Builds in Docker" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//multi-stage-builds-in-docker" title="Exploring the Power of Multi-Stage Builds in Docker"><strong>Exploring the Power of Multi-Stage Builds in Docker</strong></a>
+<br/> Introduction:-
+In the fast-paced world of software development, Docker has emerged as a game-changer, revolutionizing the way applications are built, shipped, and deployed. Among its powerful features, Docker multi-stage builds have gained immense po... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//flutter-hive" title="Supercharge Your Flutter App with Hive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686370704644/72247fc9-e195-47f1-a93a-280ec53934b7.png" alt="Supercharge Your Flutter App with Hive" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//flutter-hive" title="Supercharge Your Flutter App with Hive"><strong>Supercharge Your Flutter App with Hive</strong></a>
 <br/> Introduction:-
@@ -32,11 +37,6 @@ In today's fast-paced digital world, where users demand seamless experiences and
 <a href="https://sungod.hashnode.dev//helm-charts" title="Sail through Kubernetes Deployments with Helm Charts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685686366852/07e125e7-6d9b-4299-9601-d97bed169856.png" alt="Sail through Kubernetes Deployments with Helm Charts" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//helm-charts" title="Sail through Kubernetes Deployments with Helm Charts"><strong>Sail through Kubernetes Deployments with Helm Charts</strong></a>
 <br/> Welcome to our tech blog, where we dive into the world of Helm charts and how they revolutionize Kubernetes deployments. As the complexity of containerized applications grows, managing their deployment and scaling becomes increasingly challenging. Th... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//argocd" title="Simplifying CI/CD Pipelines with Argo CD and Kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685198897464/9d2578da-a5b6-4ac2-a574-761a4fcc8e59.png" alt="Simplifying CI/CD Pipelines with Argo CD and Kubernetes" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//argocd" title="Simplifying CI/CD Pipelines with Argo CD and Kubernetes"><strong>Simplifying CI/CD Pipelines with Argo CD and Kubernetes</strong></a>
-<br/> Introduction :
-Argo CD has emerged as a game-changing tool for streamlining CI/CD workflows in Kubernetes deployments. With its declarative and GitOps-based approach, Argo CD simplifies the automation of application and configuration deployments. In ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
