@@ -24,19 +24,19 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687706239617/2ad323ca-724f-47d3-bc84-de0e896dd6ec.png" alt="Kubernetes Architecture" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><strong>Kubernetes Architecture</strong></a>
+<br/> Introduction:-
+Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computi... </p> <br/> <br/>
+<p align="left">
+<a href="https://sungod.hashnode.dev//riverpod-part-1" title="Mastering State Management in Flutter with Riverpod : Part - 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687359480160/886f1316-8390-47e2-8755-e1bd5bf397a4.png" alt="Mastering State Management in Flutter with Riverpod : Part - 1" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//riverpod-part-1" title="Mastering State Management in Flutter with Riverpod : Part - 1"><strong>Mastering State Management in Flutter with Riverpod : Part - 1</strong></a>
+<br/> Welcome to our tech blog, where we delve into the fascinating world of Flutter and its advanced state management solutions. If you're a Flutter developer seeking to streamline your app's state management, you've come to the right place. In this compr... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//multi-stage-builds-in-docker" title="Exploring the Power of Multi-Stage Builds in Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686981805403/27943c73-2909-4058-ad5a-e6adb421c86a.png" alt="Exploring the Power of Multi-Stage Builds in Docker" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//multi-stage-builds-in-docker" title="Exploring the Power of Multi-Stage Builds in Docker"><strong>Exploring the Power of Multi-Stage Builds in Docker</strong></a>
 <br/> Introduction:-
 In the fast-paced world of software development, Docker has emerged as a game-changer, revolutionizing the way applications are built, shipped, and deployed. Among its powerful features, Docker multi-stage builds have gained immense po... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//flutter-hive" title="Supercharge Your Flutter App with Hive"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686370704644/72247fc9-e195-47f1-a93a-280ec53934b7.png" alt="Supercharge Your Flutter App with Hive" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//flutter-hive" title="Supercharge Your Flutter App with Hive"><strong>Supercharge Your Flutter App with Hive</strong></a>
-<br/> Introduction:-
-In today's fast-paced digital world, where users demand seamless experiences and instant access to information, efficient data caching has become a crucial aspect of mobile app development. To enhance the user experience and optimize t... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//helm-charts" title="Sail through Kubernetes Deployments with Helm Charts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685686366852/07e125e7-6d9b-4299-9601-d97bed169856.png" alt="Sail through Kubernetes Deployments with Helm Charts" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//helm-charts" title="Sail through Kubernetes Deployments with Helm Charts"><strong>Sail through Kubernetes Deployments with Helm Charts</strong></a>
-<br/> Welcome to our tech blog, where we dive into the world of Helm charts and how they revolutionize Kubernetes deployments. As the complexity of containerized applications grows, managing their deployment and scaling becomes increasingly challenging. Th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
