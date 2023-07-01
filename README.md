@@ -24,6 +24,10 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//shorebird" title="Shorebird: Empowering Flutter Developers with Seamless Code Updates"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688132421796/f516d623-0c49-4d49-98c8-a483ead2edde.png" alt="Shorebird: Empowering Flutter Developers with Seamless Code Updates" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//shorebird" title="Shorebird: Empowering Flutter Developers with Seamless Code Updates"><strong>Shorebird: Empowering Flutter Developers with Seamless Code Updates</strong></a>
+<br/> Welcome to our exciting blog dedicated to the latest advancements in Flutter technology. In this blog, we are going to explore the newest flutter tool for developers and businesses i.e. Shorebird. But before understanding what shorebird and hands-on ... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687706239617/2ad323ca-724f-47d3-bc84-de0e896dd6ec.png" alt="Kubernetes Architecture" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><strong>Kubernetes Architecture</strong></a>
 <br/> Introduction:-
@@ -32,11 +36,6 @@ Kubernetes is an open-source container orchestration platform that automates the
 <a href="https://sungod.hashnode.dev//riverpod-part-1" title="Mastering State Management in Flutter with Riverpod : Part - 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687359480160/886f1316-8390-47e2-8755-e1bd5bf397a4.png" alt="Mastering State Management in Flutter with Riverpod : Part - 1" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//riverpod-part-1" title="Mastering State Management in Flutter with Riverpod : Part - 1"><strong>Mastering State Management in Flutter with Riverpod : Part - 1</strong></a>
 <br/> Welcome to our tech blog, where we delve into the fascinating world of Flutter and its advanced state management solutions. If you're a Flutter developer seeking to streamline your app's state management, you've come to the right place. In this compr... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//multi-stage-builds-in-docker" title="Exploring the Power of Multi-Stage Builds in Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686981805403/27943c73-2909-4058-ad5a-e6adb421c86a.png" alt="Exploring the Power of Multi-Stage Builds in Docker" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//multi-stage-builds-in-docker" title="Exploring the Power of Multi-Stage Builds in Docker"><strong>Exploring the Power of Multi-Stage Builds in Docker</strong></a>
-<br/> Introduction:-
-In the fast-paced world of software development, Docker has emerged as a game-changer, revolutionizing the way applications are built, shipped, and deployed. Among its powerful features, Docker multi-stage builds have gained immense po... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
