@@ -24,6 +24,10 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//riverpod-part-2" title="Mastering State Management in Flutter with Riverpod : Part - 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688223160884/0621412a-a6f4-4557-afee-b159b65ed720.png" alt="Mastering State Management in Flutter with Riverpod : Part - 2" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//riverpod-part-2" title="Mastering State Management in Flutter with Riverpod : Part - 2"><strong>Mastering State Management in Flutter with Riverpod : Part - 2</strong></a>
+<br/> Welcome to our tech blog, where we delve into the fascinating world of Flutter and its advanced state management solutions. In the last part of the Riverpod series, we covered the basics of Riverpod and providers in Riverpod. In this blog, we are goi... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//shorebird" title="Shorebird: Empowering Flutter Developers with Seamless Code Updates"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688132421796/f516d623-0c49-4d49-98c8-a483ead2edde.png" alt="Shorebird: Empowering Flutter Developers with Seamless Code Updates" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//shorebird" title="Shorebird: Empowering Flutter Developers with Seamless Code Updates"><strong>Shorebird: Empowering Flutter Developers with Seamless Code Updates</strong></a>
 <br/> Welcome to our exciting blog dedicated to the latest advancements in Flutter technology. In this blog, we are going to explore the newest flutter tool for developers and businesses i.e. Shorebird. But before understanding what shorebird and hands-on ... </p> <br/> <br/>
@@ -32,10 +36,6 @@
 <a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><strong>Kubernetes Architecture</strong></a>
 <br/> Introduction:-
 Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computi... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//riverpod-part-1" title="Mastering State Management in Flutter with Riverpod : Part - 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687359480160/886f1316-8390-47e2-8755-e1bd5bf397a4.png" alt="Mastering State Management in Flutter with Riverpod : Part - 1" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//riverpod-part-1" title="Mastering State Management in Flutter with Riverpod : Part - 1"><strong>Mastering State Management in Flutter with Riverpod : Part - 1</strong></a>
-<br/> Welcome to our tech blog, where we delve into the fascinating world of Flutter and its advanced state management solutions. If you're a Flutter developer seeking to streamline your app's state management, you've come to the right place. In this compr... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
