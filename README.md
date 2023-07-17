@@ -24,6 +24,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//flutter-extensions" title="Flutter Extensions: A Must-Have for Any Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689435426418/ba5b2a70-5d03-4bec-81d0-e67cf53e7444.png" alt="Flutter Extensions: A Must-Have for Any Developer" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//flutter-extensions" title="Flutter Extensions: A Must-Have for Any Developer"><strong>Flutter Extensions: A Must-Have for Any Developer</strong></a>
+<br/> Introduction :
+Flutter extensions are a powerful tool that can be used to extend the functionality of Flutter apps. They allow developers to add new features, improve performance, and simplify their code. There are a wide variety of Flutter extension... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//riverpod-part-2" title="Mastering State Management in Flutter with Riverpod : Part - 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688223160884/0621412a-a6f4-4557-afee-b159b65ed720.png" alt="Mastering State Management in Flutter with Riverpod : Part - 2" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//riverpod-part-2" title="Mastering State Management in Flutter with Riverpod : Part - 2"><strong>Mastering State Management in Flutter with Riverpod : Part - 2</strong></a>
 <br/> Welcome to our tech blog, where we delve into the fascinating world of Flutter and its advanced state management solutions. In the last part of the Riverpod series, we covered the basics of Riverpod and providers in Riverpod. In this blog, we are goi... </p> <br/> <br/>
@@ -31,11 +36,6 @@
 <a href="https://sungod.hashnode.dev//shorebird" title="Shorebird: Empowering Flutter Developers with Seamless Code Updates"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688132421796/f516d623-0c49-4d49-98c8-a483ead2edde.png" alt="Shorebird: Empowering Flutter Developers with Seamless Code Updates" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//shorebird" title="Shorebird: Empowering Flutter Developers with Seamless Code Updates"><strong>Shorebird: Empowering Flutter Developers with Seamless Code Updates</strong></a>
 <br/> Welcome to our exciting blog dedicated to the latest advancements in Flutter technology. In this blog, we are going to explore the newest flutter tool for developers and businesses i.e. Shorebird. But before understanding what shorebird and hands-on ... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687706239617/2ad323ca-724f-47d3-bc84-de0e896dd6ec.png" alt="Kubernetes Architecture" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//kubernetes-architecture" title="Kubernetes Architecture"><strong>Kubernetes Architecture</strong></a>
-<br/> Introduction:-
-Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It was originally developed by Google and is now maintained by the Cloud Native Computi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
