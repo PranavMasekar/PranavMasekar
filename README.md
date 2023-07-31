@@ -24,6 +24,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690649052023/f227c390-5485-499b-bfbc-edc60977ef9d.png" alt="Dynamic App Configuration with Flutter and Firebase" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><strong>Dynamic App Configuration with Flutter and Firebase</strong></a>
+<br/> Introduction -
+Flutter is an increasingly popular open-source framework for building beautiful, high-performance mobile apps for iOS and Android from a single codebase. One of its major advantages is the ability to iterate quickly and ship updates on... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//freezed" title="Boost Your Flutter Development with Freezed"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690015770563/c1497247-a606-4f38-b20f-2e7ee570d7b2.png" alt="Boost Your Flutter Development with Freezed" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//freezed" title="Boost Your Flutter Development with Freezed"><strong>Boost Your Flutter Development with Freezed</strong></a>
 <br/> Introduction :
@@ -33,10 +38,6 @@ As our Flutter applications grow in complexity, it becomes tedious to manually d
 <a href="https://sungod.hashnode.dev//flutter-extensions" title="Flutter Extensions: A Must-Have for Any Developer"><strong>Flutter Extensions: A Must-Have for Any Developer</strong></a>
 <br/> Introduction :
 Flutter extensions are a powerful tool that can be used to extend the functionality of Flutter apps. They allow developers to add new features, improve performance, and simplify their code. There are a wide variety of Flutter extension... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//riverpod-part-2" title="Mastering State Management in Flutter with Riverpod : Part - 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688223160884/0621412a-a6f4-4557-afee-b159b65ed720.png" alt="Mastering State Management in Flutter with Riverpod : Part - 2" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//riverpod-part-2" title="Mastering State Management in Flutter with Riverpod : Part - 2"><strong>Mastering State Management in Flutter with Riverpod : Part - 2</strong></a>
-<br/> Welcome to our tech blog, where we delve into the fascinating world of Flutter and its advanced state management solutions. In the last part of the Riverpod series, we covered the basics of Riverpod and providers in Riverpod. In this blog, we are goi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
