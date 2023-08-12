@@ -28,16 +28,19 @@
 <a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><strong>Dynamic App Configuration with Flutter and Firebase</strong></a>
 <br/> Introduction -
 Flutter is an increasingly popular open-source framework for building beautiful, high-performance mobile apps for iOS and Android from a single codebase. One of its major advantages is the ability to iterate quickly and ship updates on... </p> <br/> <br/>
+<br/>
 <p align="left">
 <a href="https://sungod.hashnode.dev//freezed" title="Boost Your Flutter Development with Freezed"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690015770563/c1497247-a606-4f38-b20f-2e7ee570d7b2.png" alt="Boost Your Flutter Development with Freezed" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//freezed" title="Boost Your Flutter Development with Freezed"><strong>Boost Your Flutter Development with Freezed</strong></a>
 <br/> Introduction :
 As our Flutter applications grow in complexity, it becomes tedious to manually define immutable model classes. We have to explicitly mark fields as final, implement copyWith methods, override == and hashCode, and more. This repetitive ... </p> <br/> <br/>
+<br/>
 <p align="left">
 <a href="https://sungod.hashnode.dev//flutter-extensions" title="Flutter Extensions: A Must-Have for Any Developer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689435426418/ba5b2a70-5d03-4bec-81d0-e67cf53e7444.png" alt="Flutter Extensions: A Must-Have for Any Developer" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//flutter-extensions" title="Flutter Extensions: A Must-Have for Any Developer"><strong>Flutter Extensions: A Must-Have for Any Developer</strong></a>
 <br/> Introduction :
 Flutter extensions are a powerful tool that can be used to extend the functionality of Flutter apps. They allow developers to add new features, improve performance, and simplify their code. There are a wide variety of Flutter extension... </p> <br/> <br/>
+<br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
