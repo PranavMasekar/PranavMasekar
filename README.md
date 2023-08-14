@@ -24,23 +24,21 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//beyond-widgets" title="Beyond Widgets: Navigating the Realm of Render Objects in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691839395630/514f1e20-4a65-4e70-b55d-2b8de1f5d88f.png" alt="Beyond Widgets: Navigating the Realm of Render Objects in Flutter" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//beyond-widgets" title="Beyond Widgets: Navigating the Realm of Render Objects in Flutter"><strong>Beyond Widgets: Navigating the Realm of Render Objects in Flutter</strong></a>
+<br/> Introduction :
+Welcome to a fascinating journey into the heart of Flutter's UI magic! In this blog, we are going to the world beyond widgets. This other world is the world of Render Objects.
+As Flutter developers, we know how important widgets are fo... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//sentry" title="Sentry - The Secret Weapon for Flutter Error Tracking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691215121473/5085367e-6ec3-4b35-8e65-a124fe5d120e.png" alt="Sentry - The Secret Weapon for Flutter Error Tracking" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//sentry" title="Sentry - The Secret Weapon for Flutter Error Tracking"><strong>Sentry - The Secret Weapon for Flutter Error Tracking</strong></a>
 <br/> Introduction :
 No one wants their flawless app to crash when it hits the hands of users. But the reality is that even the most robust Flutter apps can fail in production due to unanticipated errors and bugs. Without a proper error monitoring system, ... </p> <br/> <br/>
-<br/>
 <p align="left">
 <a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690649052023/f227c390-5485-499b-bfbc-edc60977ef9d.png" alt="Dynamic App Configuration with Flutter and Firebase" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><strong>Dynamic App Configuration with Flutter and Firebase</strong></a>
 <br/> Introduction -
 Flutter is an increasingly popular open-source framework for building beautiful, high-performance mobile apps for iOS and Android from a single codebase. One of its major advantages is the ability to iterate quickly and ship updates on... </p> <br/> <br/>
-<br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//freezed" title="Boost Your Flutter Development with Freezed"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690015770563/c1497247-a606-4f38-b20f-2e7ee570d7b2.png" alt="Boost Your Flutter Development with Freezed" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//freezed" title="Boost Your Flutter Development with Freezed"><strong>Boost Your Flutter Development with Freezed</strong></a>
-<br/> Introduction :
-As our Flutter applications grow in complexity, it becomes tedious to manually define immutable model classes. We have to explicitly mark fields as final, implement copyWith methods, override == and hashCode, and more. This repetitive ... </p> <br/> <br/>
-<br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
