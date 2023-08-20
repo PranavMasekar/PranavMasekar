@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//flutter-gen" title="Elevating Flutter Development: The Magic of Code Generation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692449190169/c42750bc-dfe8-46c3-8b4b-9f1daf1e8613.png" alt="Elevating Flutter Development: The Magic of Code Generation" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//flutter-gen" title="Elevating Flutter Development: The Magic of Code Generation"><strong>Elevating Flutter Development: The Magic of Code Generation</strong></a>
+<br/> Introduction :
+Welcome back to my blog! In today's post, I want to share an exciting new tool that has elevated my Flutter development workflow - flutter_gen. As a Flutter developer, I'm always looking for ways to enhance code quality, accelerate dev... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//beyond-widgets" title="Beyond Widgets: Navigating the Realm of Render Objects in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691839395630/514f1e20-4a65-4e70-b55d-2b8de1f5d88f.png" alt="Beyond Widgets: Navigating the Realm of Render Objects in Flutter" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//beyond-widgets" title="Beyond Widgets: Navigating the Realm of Render Objects in Flutter"><strong>Beyond Widgets: Navigating the Realm of Render Objects in Flutter</strong></a>
 <br/> Introduction :
@@ -32,11 +37,6 @@ As Flutter developers, we know how important widgets are fo... </p> <br/> <br/>
 <a href="https://sungod.hashnode.dev//sentry" title="Sentry - The Secret Weapon for Flutter Error Tracking"><strong>Sentry - The Secret Weapon for Flutter Error Tracking</strong></a>
 <br/> Introduction :
 No one wants their flawless app to crash when it hits the hands of users. But the reality is that even the most robust Flutter apps can fail in production due to unanticipated errors and bugs. Without a proper error monitoring system, ... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690649052023/f227c390-5485-499b-bfbc-edc60977ef9d.png" alt="Dynamic App Configuration with Flutter and Firebase" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//remote-config" title="Dynamic App Configuration with Flutter and Firebase"><strong>Dynamic App Configuration with Flutter and Firebase</strong></a>
-<br/> Introduction -
-Flutter is an increasingly popular open-source framework for building beautiful, high-performance mobile apps for iOS and Android from a single codebase. One of its major advantages is the ability to iterate quickly and ship updates on... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
