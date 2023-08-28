@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//one-state-flutter-bloc" title="One State to Rule Them All: Simplifying Flutter BLoC"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693116848044/25effb70-1edd-42b7-8f85-5001d812f387.png" alt="One State to Rule Them All: Simplifying Flutter BLoC" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//one-state-flutter-bloc" title="One State to Rule Them All: Simplifying Flutter BLoC"><strong>One State to Rule Them All: Simplifying Flutter BLoC</strong></a>
+<br/> Introduction :
+The BLoC (Business Logic Component) pattern has become popular for managing state in Flutter apps by separating business logic from the UI layer. But BLoC patterns come with a lot of boilerplate code and a lot of code duplication. Ever... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//flutter-gen" title="Elevating Flutter Development: The Magic of Code Generation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692449190169/c42750bc-dfe8-46c3-8b4b-9f1daf1e8613.png" alt="Elevating Flutter Development: The Magic of Code Generation" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//flutter-gen" title="Elevating Flutter Development: The Magic of Code Generation"><strong>Elevating Flutter Development: The Magic of Code Generation</strong></a>
 <br/> Introduction :
@@ -32,11 +37,6 @@ Welcome back to my blog! In today's post, I want to share an exciting new tool t
 <br/> Introduction :
 Welcome to a fascinating journey into the heart of Flutter's UI magic! In this blog, we are going to the world beyond widgets. This other world is the world of Render Objects.
 As Flutter developers, we know how important widgets are fo... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//sentry" title="Sentry - The Secret Weapon for Flutter Error Tracking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691215121473/5085367e-6ec3-4b35-8e65-a124fe5d120e.png" alt="Sentry - The Secret Weapon for Flutter Error Tracking" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//sentry" title="Sentry - The Secret Weapon for Flutter Error Tracking"><strong>Sentry - The Secret Weapon for Flutter Error Tracking</strong></a>
-<br/> Introduction :
-No one wants their flawless app to crash when it hits the hands of users. But the reality is that even the most robust Flutter apps can fail in production due to unanticipated errors and bugs. Without a proper error monitoring system, ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
