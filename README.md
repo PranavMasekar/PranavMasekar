@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//flutter-tips" title="Mastering Flutter: Tips for Seamless App Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693718302256/4ff3630d-dd9a-4d42-8849-a382b4a2ca9f.png" alt="Mastering Flutter: Tips for Seamless App Development" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//flutter-tips" title="Mastering Flutter: Tips for Seamless App Development"><strong>Mastering Flutter: Tips for Seamless App Development</strong></a>
+<br/> Introduction -
+Flutter has quickly become one of the most popular frameworks for building cross-platform mobile apps. In this blog post, I will share some useful tips and tricks that can help you become more productive with Flutter. Whether you are j... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//one-state-flutter-bloc" title="One State to Rule Them All: Simplifying Flutter BLoC"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693116848044/25effb70-1edd-42b7-8f85-5001d812f387.png" alt="One State to Rule Them All: Simplifying Flutter BLoC" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//one-state-flutter-bloc" title="One State to Rule Them All: Simplifying Flutter BLoC"><strong>One State to Rule Them All: Simplifying Flutter BLoC</strong></a>
 <br/> Introduction :
@@ -31,12 +36,6 @@ The BLoC (Business Logic Component) pattern has become popular for managing stat
 <a href="https://sungod.hashnode.dev//flutter-gen" title="Elevating Flutter Development: The Magic of Code Generation"><strong>Elevating Flutter Development: The Magic of Code Generation</strong></a>
 <br/> Introduction :
 Welcome back to my blog! In today's post, I want to share an exciting new tool that has elevated my Flutter development workflow - flutter_gen. As a Flutter developer, I'm always looking for ways to enhance code quality, accelerate dev... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//beyond-widgets" title="Beyond Widgets: Navigating the Realm of Render Objects in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691839395630/514f1e20-4a65-4e70-b55d-2b8de1f5d88f.png" alt="Beyond Widgets: Navigating the Realm of Render Objects in Flutter" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//beyond-widgets" title="Beyond Widgets: Navigating the Realm of Render Objects in Flutter"><strong>Beyond Widgets: Navigating the Realm of Render Objects in Flutter</strong></a>
-<br/> Introduction :
-Welcome to a fascinating journey into the heart of Flutter's UI magic! In this blog, we are going to the world beyond widgets. This other world is the world of Render Objects.
-As Flutter developers, we know how important widgets are fo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
