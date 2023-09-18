@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694885395672/c61e1e10-22f3-4007-8b1b-d797da6ebca7.png" alt="Mastering Advanced Flutter BLoC Techniques" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><strong>Mastering Advanced Flutter BLoC Techniques</strong></a>
+<br/> Introduction -
+Welcome back, fellow Flutter enthusiasts! If you've been following my journey in the world of Flutter, you may recall our earlier exploration of the basics in my previous BLoC series. If you're just joining us make sure to read our Flu... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//securing-flutter-apks" title="Securing Flutter APKs: From Concept to Implementation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694258402529/a8216de4-ed19-46e4-999e-2d02b833b1b9.png" alt="Securing Flutter APKs: From Concept to Implementation" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//securing-flutter-apks" title="Securing Flutter APKs: From Concept to Implementation"><strong>Securing Flutter APKs: From Concept to Implementation</strong></a>
 <br/> Introduction
@@ -31,11 +36,6 @@ In the fast-evolving landscape of mobile application development, crafting visua
 <a href="https://sungod.hashnode.dev//flutter-tips" title="Mastering Flutter: Tips for Seamless App Development"><strong>Mastering Flutter: Tips for Seamless App Development</strong></a>
 <br/> Introduction -
 Flutter has quickly become one of the most popular frameworks for building cross-platform mobile apps. In this blog post, I will share some useful tips and tricks that can help you become more productive with Flutter. Whether you are j... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//one-state-flutter-bloc" title="One State to Rule Them All: Simplifying Flutter BLoC"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693116848044/25effb70-1edd-42b7-8f85-5001d812f387.png" alt="One State to Rule Them All: Simplifying Flutter BLoC" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//one-state-flutter-bloc" title="One State to Rule Them All: Simplifying Flutter BLoC"><strong>One State to Rule Them All: Simplifying Flutter BLoC</strong></a>
-<br/> Introduction :
-The BLoC (Business Logic Component) pattern has become popular for managing state in Flutter apps by separating business logic from the UI layer. But BLoC patterns come with a lot of boilerplate code and a lot of code duplication. Ever... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
