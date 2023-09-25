@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695487926561/44ca87b0-5044-43c2-a19b-a1cbaa7c448d.png" alt="A Beginner's Guide to Basic Animation in Flutter" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><strong>A Beginner's Guide to Basic Animation in Flutter</strong></a>
+<br/> Introduction
+Animation is the secret ingredient that can transform a simple mobile app into a captivating and engaging experience for users. In the world of mobile app development, Flutter stands out as a powerful framework for building natively comp... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694885395672/c61e1e10-22f3-4007-8b1b-d797da6ebca7.png" alt="Mastering Advanced Flutter BLoC Techniques" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><strong>Mastering Advanced Flutter BLoC Techniques</strong></a>
 <br/> Introduction -
@@ -31,11 +36,6 @@ Welcome back, fellow Flutter enthusiasts! If you've been following my journey in
 <a href="https://sungod.hashnode.dev//securing-flutter-apks" title="Securing Flutter APKs: From Concept to Implementation"><strong>Securing Flutter APKs: From Concept to Implementation</strong></a>
 <br/> Introduction
 In the fast-evolving landscape of mobile application development, crafting visually stunning and user-friendly apps is only one part of the equation. Ensuring that your Flutter app's integrity remains intact, even after it leaves your de... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//flutter-tips" title="Mastering Flutter: Tips for Seamless App Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693718302256/4ff3630d-dd9a-4d42-8849-a382b4a2ca9f.png" alt="Mastering Flutter: Tips for Seamless App Development" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//flutter-tips" title="Mastering Flutter: Tips for Seamless App Development"><strong>Mastering Flutter: Tips for Seamless App Development</strong></a>
-<br/> Introduction -
-Flutter has quickly become one of the most popular frameworks for building cross-platform mobile apps. In this blog post, I will share some useful tips and tricks that can help you become more productive with Flutter. Whether you are j... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
