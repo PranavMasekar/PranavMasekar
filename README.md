@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696666176905/31a62c34-9034-4887-82bc-07f28131b5a7.png" alt="Flutter Animations Beyond the Basics" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><strong>Flutter Animations Beyond the Basics</strong></a>
+<br/> Introduction
+As we continue our exploration into the captivating world of Flutter animations, we delve even deeper into the art of bringing your mobile applications to life. In the first part of this series, we uncovered the magic of implicit animati... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695487926561/44ca87b0-5044-43c2-a19b-a1cbaa7c448d.png" alt="A Beginner's Guide to Basic Animation in Flutter" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><strong>A Beginner's Guide to Basic Animation in Flutter</strong></a>
 <br/> Introduction
@@ -31,11 +36,6 @@ Animation is the secret ingredient that can transform a simple mobile app into a
 <a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><strong>Mastering Advanced Flutter BLoC Techniques</strong></a>
 <br/> Introduction -
 Welcome back, fellow Flutter enthusiasts! If you've been following my journey in the world of Flutter, you may recall our earlier exploration of the basics in my previous BLoC series. If you're just joining us make sure to read our Flu... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//securing-flutter-apks" title="Securing Flutter APKs: From Concept to Implementation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694258402529/a8216de4-ed19-46e4-999e-2d02b833b1b9.png" alt="Securing Flutter APKs: From Concept to Implementation" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//securing-flutter-apks" title="Securing Flutter APKs: From Concept to Implementation"><strong>Securing Flutter APKs: From Concept to Implementation</strong></a>
-<br/> Introduction
-In the fast-evolving landscape of mobile application development, crafting visually stunning and user-friendly apps is only one part of the equation. Ensuring that your Flutter app's integrity remains intact, even after it leaves your de... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
