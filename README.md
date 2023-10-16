@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697291603296/bcc72e07-3e18-4f68-9e71-568e8eabaac8.png" alt="Brushing Up Your Flutter Skills: Custom Painting Essentials" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><strong>Brushing Up Your Flutter Skills: Custom Painting Essentials</strong></a>
+<br/> Introduction
+Welcome to the colourful world of Flutter custom painting! In this guide, we will embark on an exciting journey to unlock the true potential of Flutter's CustomPainter. If you've ever wanted to create unique, visually stunning, and inter... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696666176905/31a62c34-9034-4887-82bc-07f28131b5a7.png" alt="Flutter Animations Beyond the Basics" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><strong>Flutter Animations Beyond the Basics</strong></a>
 <br/> Introduction
@@ -31,11 +36,6 @@ As we continue our exploration into the captivating world of Flutter animations,
 <a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><strong>A Beginner's Guide to Basic Animation in Flutter</strong></a>
 <br/> Introduction
 Animation is the secret ingredient that can transform a simple mobile app into a captivating and engaging experience for users. In the world of mobile app development, Flutter stands out as a powerful framework for building natively comp... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694885395672/c61e1e10-22f3-4007-8b1b-d797da6ebca7.png" alt="Mastering Advanced Flutter BLoC Techniques" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//advanced-flutter-bloc-techniques" title="Mastering Advanced Flutter BLoC Techniques"><strong>Mastering Advanced Flutter BLoC Techniques</strong></a>
-<br/> Introduction -
-Welcome back, fellow Flutter enthusiasts! If you've been following my journey in the world of Flutter, you may recall our earlier exploration of the basics in my previous BLoC series. If you're just joining us make sure to read our Flu... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
