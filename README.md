@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697878804323/09e5a6f9-bc89-4acc-ba77-a098185fb6f5.png" alt="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><strong>Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging</strong></a>
+<br/> Introduction
+Welcome to our journey of mastering Flutter DevTools! In this blog, we'll delve into the world of Flutter DevTools, a vital companion for every Flutter developer. We'll demystify the art of efficient app debugging and problem-solving. No... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697291603296/bcc72e07-3e18-4f68-9e71-568e8eabaac8.png" alt="Brushing Up Your Flutter Skills: Custom Painting Essentials" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><strong>Brushing Up Your Flutter Skills: Custom Painting Essentials</strong></a>
 <br/> Introduction
@@ -31,11 +36,6 @@ Welcome to the colourful world of Flutter custom painting! In this guide, we wil
 <a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><strong>Flutter Animations Beyond the Basics</strong></a>
 <br/> Introduction
 As we continue our exploration into the captivating world of Flutter animations, we delve even deeper into the art of bringing your mobile applications to life. In the first part of this series, we uncovered the magic of implicit animati... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695487926561/44ca87b0-5044-43c2-a19b-a1cbaa7c448d.png" alt="A Beginner's Guide to Basic Animation in Flutter" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//basic-animation-in-flutter" title="A Beginner's Guide to Basic Animation in Flutter"><strong>A Beginner's Guide to Basic Animation in Flutter</strong></a>
-<br/> Introduction
-Animation is the secret ingredient that can transform a simple mobile app into a captivating and engaging experience for users. In the world of mobile app development, Flutter stands out as a powerful framework for building natively comp... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
