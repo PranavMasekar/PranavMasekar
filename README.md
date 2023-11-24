@@ -85,5 +85,3 @@ As we continue our exploration into the captivating world of Flutter animations,
  <img width="12" />
 
 </p>
-
-[Link](https://docs.google.com/document/d/1ICyCey7GYtflIAOyy4ZqCNzLC1c16R2pClxQ26QeJHM/edit?usp=sharing)
