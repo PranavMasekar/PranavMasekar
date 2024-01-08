@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//unit-testing" title="Elevate Your Flutter Game with Unit Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704607609373/a5741679-4916-43ab-a828-fb6319459e31.png" alt="Elevate Your Flutter Game with Unit Testing" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//unit-testing" title="Elevate Your Flutter Game with Unit Testing"><strong>Elevate Your Flutter Game with Unit Testing</strong></a>
+<br/> Introduction
+We all get it – testing in coding seems like a speed bump. It's that thing we know we should do but often skip. Especially in Flutter and Dart, testing gets a bad rap for slowing us down. But what if I said testing could actually make th... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697878804323/09e5a6f9-bc89-4acc-ba77-a098185fb6f5.png" alt="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><strong>Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging</strong></a>
 <br/> Introduction
@@ -31,11 +36,6 @@ Welcome to our journey of mastering Flutter DevTools! In this blog, we'll delve 
 <a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><strong>Brushing Up Your Flutter Skills: Custom Painting Essentials</strong></a>
 <br/> Introduction
 Welcome to the colourful world of Flutter custom painting! In this guide, we will embark on an exciting journey to unlock the true potential of Flutter's CustomPainter. If you've ever wanted to create unique, visually stunning, and inter... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696666176905/31a62c34-9034-4887-82bc-07f28131b5a7.png" alt="Flutter Animations Beyond the Basics" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><strong>Flutter Animations Beyond the Basics</strong></a>
-<br/> Introduction
-As we continue our exploration into the captivating world of Flutter animations, we delve even deeper into the art of bringing your mobile applications to life. In the first part of this series, we uncovered the magic of implicit animati... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
