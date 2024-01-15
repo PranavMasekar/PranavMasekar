@@ -22,6 +22,11 @@
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://sungod.hashnode.dev//mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705218770857/bde86277-3a9c-4bb9-b4a9-2c3ca51250c0.png" alt="Mastering Mocks: A Deep Dive into Unit Testing with Dart" width="250px" align="left" /></a>
+<a href="https://sungod.hashnode.dev//mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><strong>Mastering Mocks: A Deep Dive into Unit Testing with Dart</strong></a>
+<br/> Introduction
+Welcome to the second part of the Unit Testing series in Flutter. Previously in the first part we discussed the basics of Unit testing and real life problems. This second part will be focused on Mocking custom classes for effective testi... </p> <br/> <br/>
+<p align="left">
 <a href="https://sungod.hashnode.dev//unit-testing" title="Elevate Your Flutter Game with Unit Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704607609373/a5741679-4916-43ab-a828-fb6319459e31.png" alt="Elevate Your Flutter Game with Unit Testing" width="250px" align="left" /></a>
 <a href="https://sungod.hashnode.dev//unit-testing" title="Elevate Your Flutter Game with Unit Testing"><strong>Elevate Your Flutter Game with Unit Testing</strong></a>
 <br/> Introduction
@@ -31,11 +36,6 @@ We all get it – testing in coding seems like a speed bump. It's that thing we 
 <a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><strong>Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging</strong></a>
 <br/> Introduction
 Welcome to our journey of mastering Flutter DevTools! In this blog, we'll delve into the world of Flutter DevTools, a vital companion for every Flutter developer. We'll demystify the art of efficient app debugging and problem-solving. No... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697291603296/bcc72e07-3e18-4f68-9e71-568e8eabaac8.png" alt="Brushing Up Your Flutter Skills: Custom Painting Essentials" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><strong>Brushing Up Your Flutter Skills: Custom Painting Essentials</strong></a>
-<br/> Introduction
-Welcome to the colourful world of Flutter custom painting! In this guide, we will embark on an exciting journey to unlock the true potential of Flutter's CustomPainter. If you've ever wanted to create unique, visually stunning, and inter... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
