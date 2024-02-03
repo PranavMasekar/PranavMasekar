@@ -18,5 +18,6 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'sungod.hashnode.dev'
           FORMAT: 'stacked'
+          POST_COUNT: 3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
