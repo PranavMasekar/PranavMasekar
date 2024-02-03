@@ -21,21 +21,25 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://sungod.hashnode.dev//mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705218770857/bde86277-3a9c-4bb9-b4a9-2c3ca51250c0.png" alt="Mastering Mocks: A Deep Dive into Unit Testing with Dart" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><strong>Mastering Mocks: A Deep Dive into Unit Testing with Dart</strong></a>
-<br/> Introduction
-Welcome to the second part of the Unit Testing series in Flutter. Previously in the first part we discussed the basics of Unit testing and real life problems. This second part will be focused on Mocking custom classes for effective testi... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//unit-testing" title="Elevate Your Flutter Game with Unit Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704607609373/a5741679-4916-43ab-a828-fb6319459e31.png" alt="Elevate Your Flutter Game with Unit Testing" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//unit-testing" title="Elevate Your Flutter Game with Unit Testing"><strong>Elevate Your Flutter Game with Unit Testing</strong></a>
-<br/> Introduction
-We all get it – testing in coding seems like a speed bump. It's that thing we know we should do but often skip. Especially in Flutter and Dart, testing gets a bad rap for slowing us down. But what if I said testing could actually make th... </p> <br/> <br/>
-<p align="left">
-<a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697878804323/09e5a6f9-bc89-4acc-ba77-a098185fb6f5.png" alt="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging" width="250px" align="left" /></a>
-<a href="https://sungod.hashnode.dev//flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><strong>Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging</strong></a>
-<br/> Introduction
-Welcome to our journey of mastering Flutter DevTools! In this blog, we'll delve into the world of Flutter DevTools, a vital companion for every Flutter developer. We'll demystify the art of efficient app debugging and problem-solving. No... </p> <br/> <br/>
+<p align="left"><a href="https://sungod.hashnode.dev/firebase-testing" title="Fireside Unit Testing: Explore testing in Firebase in Dart"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705826325802/e071ea62-5b87-4ea7-a04e-5ae4f776ecda.png" alt="Fireside Unit Testing: Explore testing in Firebase in Dart" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/firebase-testing" title="Fireside Unit Testing: Explore testing in Firebase in Dart"><strong>Fireside Unit Testing: Explore testing in Firebase in Dart</strong></a><div><strong>January 21, 2024</strong></div><br/>Introduction
+Welcome to the third part of our Unit Testing series in Flutter and Dart. Today, we're tackling the challenge of testing Flutter apps that use Firebase for user authentication (firebase_a...</p><br/><br/>
+
+<p align="left"><a href="https://sungod.hashnode.dev/mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705218770857/bde86277-3a9c-4bb9-b4a9-2c3ca51250c0.png" alt="Mastering Mocks: A Deep Dive into Unit Testing with Dart" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><strong>Mastering Mocks: A Deep Dive into Unit Testing with Dart</strong></a><div><strong>January 14, 2024</strong></div><br/>Introduction
+Welcome to the second part of the Unit Testing series in Flutter. Previously in the first part we discussed the basics of Unit testing and real life problems. This second part will be foc...</p><br/><br/>
+
+<p align="left"><a href="https://sungod.hashnode.dev/unit-testing" title="Elevate Your Flutter Game with Unit Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704607609373/a5741679-4916-43ab-a828-fb6319459e31.png" alt="Elevate Your Flutter Game with Unit Testing" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/unit-testing" title="Elevate Your Flutter Game with Unit Testing"><strong>Elevate Your Flutter Game with Unit Testing</strong></a><div><strong>January 7, 2024</strong></div><br/>Introduction
+We all get it – testing in coding seems like a speed bump. It's that thing we know we should do but often skip. Especially in Flutter and Dart, testing gets a bad rap for slowing us down....</p><br/><br/>
+
+<p align="left"><a href="https://sungod.hashnode.dev/flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697878804323/09e5a6f9-bc89-4acc-ba77-a098185fb6f5.png" alt="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/flutter-devtools" title="Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging"><strong>Mastering Flutter DevTools: Unleashing the Power of Mobile App Debugging</strong></a><div><strong>October 22, 2023</strong></div><br/>Introduction
+Welcome to our journey of mastering Flutter DevTools! In this blog, we'll delve into the world of Flutter DevTools, a vital companion for every Flutter developer. We'll demystify the art ...</p><br/><br/>
+
+<p align="left"><a href="https://sungod.hashnode.dev/custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697291603296/bcc72e07-3e18-4f68-9e71-568e8eabaac8.png" alt="Brushing Up Your Flutter Skills: Custom Painting Essentials" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/custom-painter" title="Brushing Up Your Flutter Skills: Custom Painting Essentials"><strong>Brushing Up Your Flutter Skills: Custom Painting Essentials</strong></a><div><strong>October 15, 2023</strong></div><br/>Introduction
+Welcome to the colourful world of Flutter custom painting! In this guide, we will embark on an exciting journey to unlock the true potential of Flutter's CustomPainter. If you've ever wan...</p><br/><br/>
+
+<p align="left"><a href="https://sungod.hashnode.dev/animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696666176905/31a62c34-9034-4887-82bc-07f28131b5a7.png" alt="Flutter Animations Beyond the Basics" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/animations-beyond-the-basics" title="Flutter Animations Beyond the Basics"><strong>Flutter Animations Beyond the Basics</strong></a><div><strong>October 8, 2023</strong></div><br/>Introduction
+As we continue our exploration into the captivating world of Flutter animations, we delve even deeper into the art of bringing your mobile applications to life. In the first part of this ...</p><br/><br/>
+
+
 <!-- HASHNODE_BLOG:END -->
 
 ## 🚀 Languages and Tools:
