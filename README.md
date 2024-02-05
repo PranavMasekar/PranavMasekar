@@ -21,14 +21,14 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://sungod.hashnode.dev/developer-health" title="Rethinking Developer Health Habits from Undergrad to Professional"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706938993824/cbd19896-8ad6-421b-8567-613ed60aa939.png" alt="Rethinking Developer Health Habits from Undergrad to Professional" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/developer-health" title="Rethinking Developer Health Habits from Undergrad to Professional"><strong>Rethinking Developer Health Habits from Undergrad to Professional</strong></a><div><strong>February 4, 2024</strong></div><br/>Introduction
+In the fast-paced world of software development, it's easy to get caught up in the excitement of building innovative solutions and pushing boundaries. However, between the lines of code a...</p><br/><br/>
+
 <p align="left"><a href="https://sungod.hashnode.dev/firebase-testing" title="Fireside Unit Testing: Explore testing in Firebase in Dart"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705826325802/e071ea62-5b87-4ea7-a04e-5ae4f776ecda.png" alt="Fireside Unit Testing: Explore testing in Firebase in Dart" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/firebase-testing" title="Fireside Unit Testing: Explore testing in Firebase in Dart"><strong>Fireside Unit Testing: Explore testing in Firebase in Dart</strong></a><div><strong>January 21, 2024</strong></div><br/>Introduction
 Welcome to the third part of our Unit Testing series in Flutter and Dart. Today, we're tackling the challenge of testing Flutter apps that use Firebase for user authentication (firebase_a...</p><br/><br/>
 
 <p align="left"><a href="https://sungod.hashnode.dev/mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705218770857/bde86277-3a9c-4bb9-b4a9-2c3ca51250c0.png" alt="Mastering Mocks: A Deep Dive into Unit Testing with Dart" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/mocks" title="Mastering Mocks: A Deep Dive into Unit Testing with Dart"><strong>Mastering Mocks: A Deep Dive into Unit Testing with Dart</strong></a><div><strong>January 14, 2024</strong></div><br/>Introduction
 Welcome to the second part of the Unit Testing series in Flutter. Previously in the first part we discussed the basics of Unit testing and real life problems. This second part will be foc...</p><br/><br/>
-
-<p align="left"><a href="https://sungod.hashnode.dev/unit-testing" title="Elevate Your Flutter Game with Unit Testing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704607609373/a5741679-4916-43ab-a828-fb6319459e31.png" alt="Elevate Your Flutter Game with Unit Testing" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/unit-testing" title="Elevate Your Flutter Game with Unit Testing"><strong>Elevate Your Flutter Game with Unit Testing</strong></a><div><strong>January 7, 2024</strong></div><br/>Introduction
-We all get it – testing in coding seems like a speed bump. It's that thing we know we should do but often skip. Especially in Flutter and Dart, testing gets a bad rap for slowing us down....</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
