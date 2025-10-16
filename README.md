@@ -21,14 +21,14 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://sungod.hashnode.dev/healthkit" title="Integrating HealthKit with Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760004564324/4400eea4-a6e6-4101-88a5-79da37117f35.png" alt="Integrating HealthKit with Flutter" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/healthkit" title="Integrating HealthKit with Flutter"><strong>Integrating HealthKit with Flutter</strong></a><div><strong>October 15, 2025</strong></div><br/>Introduction
+If you're a Flutter developer building health and fitness apps, you know the struggle! Getting access to native iOS health data like steps, calories, and heart rate can feel like navigati...</p><br/><br/>
+
 <p align="left"><a href="https://sungod.hashnode.dev/airplay" title="Add AirPlay to Flutter in 5 Minutes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760004134853/20e45e76-d97c-4144-b86b-cabb42f43702.png" alt="Add AirPlay to Flutter in 5 Minutes" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/airplay" title="Add AirPlay to Flutter in 5 Minutes"><strong>Add AirPlay to Flutter in 5 Minutes</strong></a><div><strong>October 12, 2025</strong></div><br/>Introduction
 AirPlay is Apple's wireless streaming protocol that lets users stream audio and video from their iOS devices to Apple TV, HomePod, and other AirPlay-compatible devices. In this post, we'l...</p><br/><br/>
 
 <p align="left"><a href="https://sungod.hashnode.dev/pigeon" title="Swift Integration via Pigeon"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1759813249347/71dbf155-b6a3-4c60-8aea-81167a96191e.png" alt="Swift Integration via Pigeon" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/pigeon" title="Swift Integration via Pigeon"><strong>Swift Integration via Pigeon</strong></a><div><strong>October 10, 2025</strong></div><br/>Introduction
 Platform channels let Flutter call native APIs when you need capabilities outside the framework. Pigeon is a tool that generates the type-safe plumbing for those calls, so you focus on AP...</p><br/><br/>
-
-<p align="left"><a href="https://sungod.hashnode.dev/missing-piece" title="Missing piece"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1759762209093/807ce6d8-a69c-4829-8cfa-06502ca72097.png" alt="Missing piece" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/missing-piece" title="Missing piece"><strong>Missing piece</strong></a><div><strong>October 6, 2025</strong></div><br/>Introduction
-If you're a Flutter developer, you know the struggle! AI tools like Cursor, Claude, and Copilot are absolutely brilliant for JavaScript and Python, but when it comes to Flutter, they some...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
