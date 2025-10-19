@@ -21,14 +21,14 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://sungod.hashnode.dev/live-activities-in-flutter" title="Live Activities in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760521905430/4f28d154-5bbb-4a91-9611-22163c99e125.png" alt="Live Activities in Flutter" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/live-activities-in-flutter" title="Live Activities in Flutter"><strong>Live Activities in Flutter</strong></a><div><strong>October 18, 2025</strong></div><br/>Introduction
+Live Activities are a slick way to surface real‑time updates on iOS, right on the Lock Screen and inside the Dynamic Island. In this post, we'll wire up a minimal timer Live Activity in a...</p><br/><br/>
+
 <p align="left"><a href="https://sungod.hashnode.dev/healthkit" title="Integrating HealthKit with Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760004564324/4400eea4-a6e6-4101-88a5-79da37117f35.png" alt="Integrating HealthKit with Flutter" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/healthkit" title="Integrating HealthKit with Flutter"><strong>Integrating HealthKit with Flutter</strong></a><div><strong>October 15, 2025</strong></div><br/>Introduction
 If you're a Flutter developer building health and fitness apps, you know the struggle! Getting access to native iOS health data like steps, calories, and heart rate can feel like navigati...</p><br/><br/>
 
 <p align="left"><a href="https://sungod.hashnode.dev/airplay" title="Add AirPlay to Flutter in 5 Minutes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760004134853/20e45e76-d97c-4144-b86b-cabb42f43702.png" alt="Add AirPlay to Flutter in 5 Minutes" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/airplay" title="Add AirPlay to Flutter in 5 Minutes"><strong>Add AirPlay to Flutter in 5 Minutes</strong></a><div><strong>October 12, 2025</strong></div><br/>Introduction
 AirPlay is Apple's wireless streaming protocol that lets users stream audio and video from their iOS devices to Apple TV, HomePod, and other AirPlay-compatible devices. In this post, we'l...</p><br/><br/>
-
-<p align="left"><a href="https://sungod.hashnode.dev/pigeon" title="Swift Integration via Pigeon"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1759813249347/71dbf155-b6a3-4c60-8aea-81167a96191e.png" alt="Swift Integration via Pigeon" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/pigeon" title="Swift Integration via Pigeon"><strong>Swift Integration via Pigeon</strong></a><div><strong>October 10, 2025</strong></div><br/>Introduction
-Platform channels let Flutter call native APIs when you need capabilities outside the framework. Pigeon is a tool that generates the type-safe plumbing for those calls, so you focus on AP...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
