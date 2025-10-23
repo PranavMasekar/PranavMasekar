@@ -21,14 +21,14 @@
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://sungod.hashnode.dev/foundation-models-in-flutter" title="Integrating Swift Foundation Models in Flutter Apps with Pigeon"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760968921697/79ed3e52-69aa-4e1b-9a6e-46d55f80f210.png" alt="Integrating Swift Foundation Models in Flutter Apps with Pigeon" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/foundation-models-in-flutter" title="Integrating Swift Foundation Models in Flutter Apps with Pigeon"><strong>Integrating Swift Foundation Models in Flutter Apps with Pigeon</strong></a><div><strong>October 22, 2025</strong></div><br/>Introduction
+If you're a Flutter dev on iOS, this one's exciting! Apple shipped Foundation Models APIs in the latest SDKs, and you can call them from Flutter with a lightweight Swift bridge. In this p...</p><br/><br/>
+
 <p align="left"><a href="https://sungod.hashnode.dev/live-activities-in-flutter" title="Live Activities in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760521905430/4f28d154-5bbb-4a91-9611-22163c99e125.png" alt="Live Activities in Flutter" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/live-activities-in-flutter" title="Live Activities in Flutter"><strong>Live Activities in Flutter</strong></a><div><strong>October 18, 2025</strong></div><br/>Introduction
 Live Activities are a slick way to surface real‑time updates on iOS, right on the Lock Screen and inside the Dynamic Island. In this post, we'll wire up a minimal timer Live Activity in a...</p><br/><br/>
 
 <p align="left"><a href="https://sungod.hashnode.dev/healthkit" title="Integrating HealthKit with Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760004564324/4400eea4-a6e6-4101-88a5-79da37117f35.png" alt="Integrating HealthKit with Flutter" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/healthkit" title="Integrating HealthKit with Flutter"><strong>Integrating HealthKit with Flutter</strong></a><div><strong>October 15, 2025</strong></div><br/>Introduction
 If you're a Flutter developer building health and fitness apps, you know the struggle! Getting access to native iOS health data like steps, calories, and heart rate can feel like navigati...</p><br/><br/>
-
-<p align="left"><a href="https://sungod.hashnode.dev/airplay" title="Add AirPlay to Flutter in 5 Minutes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1760004134853/20e45e76-d97c-4144-b86b-cabb42f43702.png" alt="Add AirPlay to Flutter in 5 Minutes" width="300px" align="left" /></a><a href="https://sungod.hashnode.dev/airplay" title="Add AirPlay to Flutter in 5 Minutes"><strong>Add AirPlay to Flutter in 5 Minutes</strong></a><div><strong>October 12, 2025</strong></div><br/>Introduction
-AirPlay is Apple's wireless streaming protocol that lets users stream audio and video from their iOS devices to Apple TV, HomePod, and other AirPlay-compatible devices. In this post, we'l...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
